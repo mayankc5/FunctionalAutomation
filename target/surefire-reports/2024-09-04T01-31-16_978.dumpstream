@@ -1,0 +1,5 @@
+# Created at 2024-09-04T01:31:17.949
+Boot Manifest-JAR contains absolute paths in classpath 'G:\myWorkspace\com.seleniumbddhybridframework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
